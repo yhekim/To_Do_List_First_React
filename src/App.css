@@ -1,0 +1,28 @@
+body {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #464660;
+}
+
+button {
+    cursor: pointer;
+}
+
+.App {
+    width: 500px;
+    min-height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    background-color: #368B85;
+    text-align: center;
+}
+
+.App-h1 {
+    color: #F1E9E5;
+}
