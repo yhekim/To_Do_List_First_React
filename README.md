@@ -2,13 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Note:
+- Before starting this project, you must first install json server and run it before you can use it.
+- npm i json-server than npm run server
+
+- https://heuristic-curran-d72c9d.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
 
-## Description
 
--  
 
 ### `yarn start`
 
